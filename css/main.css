@@ -21,20 +21,7 @@ h1 {
     color: #f4ede8;
     margin: 10px;
     text-align: center;
-   
-}
-   
 
-.site-nav {
-    text-align: left;
-    overflow: hidden;
-    background-color: #9a8c98;
-    padding: 5px 5px;
-    font-size: 17px;
-}
-
-lil a {
-    color: #122539;
 }
 
 a {
@@ -42,9 +29,34 @@ a {
     ;
 }
 
-a:hover {
+.site-nav {
+    text-align: left;
+    overflow: hidden;
+    background-color: #7D838E;
+    padding: 2px ;
+    font-size: 17px;
+}
+
+.site-nav li {
+    display: inline;
+    /* brings nav elements up next to each other */
+    list-style-type: none;
+    /* removes the bullet points */
+    padding-right: 60px;
+    margin: 10px;
+    /* spaces them out from each other. Adjust to suit your needs */
+}
+
+.site-nav li a {
+    color: #122539;
+    /*    display: inline-block;*/
+}
+
+
+.site-nav a:hover {
     background-color: #122539;
-    color: #f4ede8;
+    color: #ce9086;
+    padding: 10px;
 }
 
 .tagline {
@@ -72,13 +84,14 @@ h3 {
     color: #ce9086;
     padding: 5px;
     text-decoration: underline;
-    text-decoration-color:#9a8c98;
+    text-decoration-color: #9a8c98;
 }
 
 .smart {
     font-family: quasimoda, sans-serif;
     font-weight: 700;
     font-style: italic;
+    color: #ce9086;
 }
 
 .skill {
@@ -166,7 +179,7 @@ h2 {
     font-weight: 800;
     font-style: normal;
     color: #ce9086;
-    border-style:dashed;
+    border-style: dashed;
     border-color: #9a8c98;
     padding: 10px;
     width: 300px;
@@ -179,9 +192,9 @@ h2 {
     font-family: quasimoda, sans-serif;
     font-style: normal;
     font-weight: 200;
-    color: #f4ede8; 
+    color: #f4ede8;
     margin: 10px;
-    
+
 }
 
 
@@ -228,10 +241,6 @@ h2 {
     color: #f4ede8
 }
 
-.aboutcontent{
+.aboutcontent {
     margin: 20px;
 }
-    
-
-
-
