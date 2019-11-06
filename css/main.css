@@ -1,0 +1,237 @@
+@import url("https://use.typekit.net/eeq4fpo.css");
+@import url("https://use.typekit.net/eeq4fpo.css");
+
+html {
+    background-color: #0f1c2b;
+}
+
+h1 {
+    font-family: quasimoda, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #f4ede8;
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+.attractor {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+    margin: 10px;
+    text-align: center;
+   
+}
+   
+
+.site-nav {
+    text-align: left;
+    overflow: hidden;
+    background-color: #9a8c98;
+    padding: 5px 5px;
+    font-size: 17px;
+}
+
+lil a {
+    color: #122539;
+}
+
+a {
+    color: #ce9086;
+    ;
+}
+
+a:hover {
+    background-color: #122539;
+    color: #f4ede8;
+}
+
+.tagline {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+    margin: 10px;
+    text-align: center;
+}
+
+.intro {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+    margin: 10px;
+    text-align: center;
+}
+
+h3 {
+    font-family: eurostile-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #ce9086;
+    padding: 5px;
+    text-decoration: underline;
+    text-decoration-color:#9a8c98;
+}
+
+.smart {
+    font-family: quasimoda, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.skill {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+    padding: 5px 10px 5px;
+}
+
+.studyskills {
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    grid-gap: 20px;
+
+}
+
+
+.studyskills h2 {
+    grid-column: 1/-1;
+    font-family: eurostile-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #ce9086;
+    padding: 10px;
+}
+
+
+.skill {
+    border-style: solid;
+    border-color: #9a8c98;
+}
+
+.featured {
+    font-family: eurostile-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #ce9086;
+    padding: 10px;
+}
+
+.featured p {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+}
+
+.credits {
+    font-family: eurostile-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #ce9086;
+    padding: 10px;
+
+}
+
+.credits p {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+}
+
+.site-footer {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+    padding: 10px;
+}
+
+.site-footer p {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+}
+
+
+h2 {
+    font-family: eurostile-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #ce9086;
+    border-style:dashed;
+    border-color: #9a8c98;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    border-width: thin;
+
+}
+
+.whatisit {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8; 
+    margin: 10px;
+    
+}
+
+
+.whyisiteffective {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+}
+
+.howtouseretrievalpractice {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8;
+}
+
+.whentouseretrievalpractice {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8
+}
+
+.tipsandtricks {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8
+}
+
+.resources {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8
+}
+
+
+.aboutcontent {
+    font-family: quasimoda, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #f4ede8
+}
+
+.aboutcontent{
+    margin: 20px;
+}
+    
+
+
+
