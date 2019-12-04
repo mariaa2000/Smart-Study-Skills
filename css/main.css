@@ -5,6 +5,11 @@ html {
     background-color: #0f1c2b;
 }
 
+
+@media (min-width: 1800px){
+
+
+}
 h1 {
     font-family: quasimoda, sans-serif;
     font-weight: 700;
