@@ -42,8 +42,9 @@ a {
     /* brings nav elements up next to each other */
     list-style-type: none;
     /* removes the bullet points */
-    padding-right: 60px;
+    padding-right: 15px;
     margin: 10px;
+
     /* spaces them out from each other. Adjust to suit your needs */
 }
 
@@ -83,7 +84,6 @@ h3 {
     font-style: normal;
     color: #ce9086;
     padding: 5px;
-    text-decoration: underline;
     text-decoration-color: #9a8c98;
 }
 
@@ -182,7 +182,6 @@ h2 {
     border-style: dashed;
     border-color: #9a8c98;
     padding: 10px;
-    width: 300px;
     text-align: center;
     border-width: thin;
 
@@ -243,4 +242,8 @@ h2 {
 
 .aboutcontent {
     margin: 20px;
+}
+
+li{
+    margin-bottom: 1rem;
 }
