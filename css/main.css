@@ -268,3 +268,9 @@ h2 {
 li{
     margin-bottom: 1rem;
 }
+
+img{
+  width:auto;
+  height: auto;
+  max-width: 100%;
+}
