@@ -545,7 +545,8 @@ img {
     }
 
     h2 {
-        font-size: 2rem;
+        font-size: 2.40rem;
+        padding: 5px;
     }
 
     h3 {
@@ -582,5 +583,74 @@ img {
         text-align: left;
     }
 
+    .whyisiteffective li{
+        font-size: 1.20rem;
+    }
 
+    .howtouse{
+        font-size: 1.20rem;
+    }
+
+    .whentouse{
+        font-size: 1.20rem;
+    }
+
+    .tipsandtricks{
+        font-size: 1.20rem;
+    }
+
+    .resources li{
+        font-size: 1.20rem;
+    }
+
+    .whoisthissitefor{
+         border-style: solid;
+        border-color: #9a8c98;
+        padding: 5px;
+    }
+
+    .whoisthissitefor p{
+        text-align: center;
+    }
+
+    .aboutgrid{
+        display: grid;
+        grid-column-gap: 20px;
+        grid-template-columns: 1fr 1fr;
+
+    }
+
+    .whywasthissitemade{
+        border-style: solid;
+        border-color: #9a8c98;
+        margin-top: 20px;
+
+    }
+
+    .howtousesite{
+        border-style: solid;
+        border-color: #9a8c98;
+       margin-top: 20px;
+
+    }
+
+    .whywasthissitemade p{
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .howtousesite p{
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+}
+
+    .tipsandtricks li{
+        text-align: center;
+    }
+
+    .creditsabout p{
+        text-align: center;
+    }
 }
