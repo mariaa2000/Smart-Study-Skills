@@ -381,6 +381,28 @@ img {
     .credits p{
         text-align: justify;
     }
+
+    .whoisthissitefor p{
+        text-align: center;
+    }
+
+
+    .whywasthissitemade p{
+        text-align: center;
+
+    }
+
+    .howtousesite p{
+        text-align: center;
+}
+
+    .tipsandtricks li{
+        text-align: center;
+    }
+
+    .creditsabout p{
+        text-align: center;
+    }
 }
 
 
@@ -488,6 +510,57 @@ img {
 
     .boxes li{
         text-align: left;
+    }
+
+        .whoisthissitefor{
+         border-style: solid;
+        border-color: #9a8c98;
+        padding: 5px;
+    }
+
+    .whoisthissitefor p{
+        text-align: center;
+    }
+
+    .aboutgrid{
+        display: grid;
+        grid-column-gap: 20px;
+        grid-template-columns: 1fr 1fr;
+
+    }
+
+    .whywasthissitemade{
+        border-style: solid;
+        border-color: #9a8c98;
+        margin-top: 20px;
+
+    }
+
+    .howtousesite{
+        border-style: solid;
+        border-color: #9a8c98;
+       margin-top: 20px;
+
+    }
+
+    .whywasthissitemade p{
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .howtousesite p{
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+}
+
+    .tipsandtricks li{
+        text-align: center;
+    }
+
+    .creditsabout p{
+        text-align: center;
     }
 }
 
