@@ -557,11 +557,18 @@ img {
 
     .tipsandtricks li{
         text-align: center;
+        grid-row: 2/3;
     }
 
     .creditsabout p{
         text-align: center;
     }
+
+    .img{
+        grid-column: 1/3;
+        grid-row: 3/4;
+    }
+
 }
 
 
@@ -726,4 +733,11 @@ img {
     .creditsabout p{
         text-align: center;
     }
+
+    .img {
+    grid-column: 1/4;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
 }
