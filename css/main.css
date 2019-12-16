@@ -300,6 +300,9 @@ img {
     .attractor {
         text-align: center;
         font-size: .90rem;
+        font-family: quasimoda, sans-serif;
+        font-style: italic;
+        color: #f4ede8;
     }
 
     .intro {
@@ -450,7 +453,10 @@ img {
 
     .attractor {
         text-align: center;
-        font-size: 1rem;
+        font-size: 1.20rem;
+        font-family: quasimoda, sans-serif;
+        font-style: italic;
+        color: #f4ede8;
     }
 
     .intro {
@@ -618,7 +624,14 @@ img {
 
     .attractor {
         font-size: 1.40rem;
+        font-family: quasimoda, sans-serif;
+        font-style: italic;
+        color: #f4ede8;
     }
+
+    .whatisit p{
+    font-size: 1.20rem;
+}
 
     .intro {
         font-size: 1.40rem;
@@ -741,3 +754,4 @@ img {
     max-width: 100%;
 }
 }
+
