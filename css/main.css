@@ -275,14 +275,51 @@ img {
 
 @supports (grid-area: auto) {
 
+     .site-nav {
+    background-color: #7D838E;
+    overflow: hidden;
+}
 
-@media screen and (max-width: 1000px) {
-  .site-nav.responsive {position: relative;}
-  .site-nav.responsive li.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
+
+.site-nav ul{
+  list-style-type:none;
+  margin:0;
+  padding: 0;
+}
+.site-nav ul li{
+  margin:0;
+  padding: 0;
+}
+
+.site-nav h1{
+  margin: 0;
+  padding: 0;
+
+}
+
+
+.site-nav ul li{
+  float: left;
+  text-align: center;
+}
+.site-nav a {
+  color: #f2f2f2;
+  display: block;
+  padding: 7px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.site-nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.site-nav .icon {
+    display: none;
+}
+
 
     h1 {
         font-size: 1.90rem;
